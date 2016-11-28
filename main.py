@@ -46,14 +46,17 @@ for i in D.keys():
 
 #look through the database and print if stolen plate is found
 done = 0
+print highPlates
+print "Average Confidence: ", str(highest)
+print "Occured ", str(highOcc), " times"
 for line in inFile2:
     if line[:7] == highPlates[:7]:
-        print "STOLEN PLATE: " + highPlates[:7]
+        print "IS A STOLEN PLATE" 
         done = 1
         break
 
 if done == 0:
-    print "NO STOLEN PLATE FOUND"
+    print "NOT A STOLEN PLATE"
 
 inFile.close()
 inFile2.close()

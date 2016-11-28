@@ -1,0 +1,169 @@
+nichelle//20161127_153240.jpg
+plate0: 10 results
+    - 7BCJ720	 confidence: 93.4095
+    - 7BCJ72O	 confidence: 86.9392
+    - 7BCJ72Q	 confidence: 86.4191
+    - 7BCJ72D	 confidence: 86.3793
+    - 7BCJ72B	 confidence: 85.205
+    - 7BCJ72U	 confidence: 84.9623
+    - 78CJ720	 confidence: 84.8764
+    - 7BCJ72G	 confidence: 84.2019
+    - 7BGJ720	 confidence: 83.3906
+    - 78CJ72O	 confidence: 78.406
+nichelle//20161127_153247.jpg
+nichelle//20161127_153303.jpg
+plate0: 10 results
+    - 7BCJ720	 confidence: 91.5982
+    - BCJ720	 confidence: 88.5419
+    - 7BCJ72O	 confidence: 84.3639
+    - 7BCJ72Q	 confidence: 83.43
+    - 78CJ720	 confidence: 82.8372
+    - 7BCJ72D	 confidence: 82.5378
+    - 7BGJ720	 confidence: 81.8618
+    - BCJ72O	 confidence: 81.3076
+    - 7BCJ7Z0	 confidence: 81.2644
+    - BCJ72Q	 confidence: 80.3737
+nichelle//20161127_153305.jpg
+plate0: 10 results
+    - VGK95	 confidence: 86.62
+    - 7VGK95	 confidence: 86.0644
+    - VGK975	 confidence: 86.0125
+    - 7VGK975	 confidence: 85.4569
+    - TVGK95	 confidence: 84.9294
+    - TVGK975	 confidence: 84.3219
+    - VGK9S	 confidence: 75.6588
+    - 7VGK9S	 confidence: 75.1032
+    - VGK97S	 confidence: 75.0513
+    - 7VGK97S	 confidence: 74.4957
+nichelle//20161127_153307.jpg
+plate0: 10 results
+    - 7RCJ720	 confidence: 89.4919
+    - RCJ720	 confidence: 86.6307
+    - 7BCJ720	 confidence: 84.0956
+    - 7RCJ72O	 confidence: 83.3188
+    - 7RCJ72Q	 confidence: 83.1336
+    - BCJ720	 confidence: 81.2345
+    - 7RCJ72D	 confidence: 81.1264
+    - 78CJ720	 confidence: 81.0386
+    - 7CJ720	 confidence: 81.0086
+    - RCJ72O	 confidence: 80.4577
+nichelle//20161127_153311.jpg
+plate0: 10 results
+    - 7BCJ720	 confidence: 89.8503
+    - 7BCJ20	 confidence: 85.0801
+    - BCJ720	 confidence: 83.9934
+    - 7BCJ7Z0	 confidence: 81.5658
+    - 78CJ720	 confidence: 81.5557
+    - 7BCJ72O	 confidence: 81.3508
+    - 7BCJ72Q	 confidence: 80.3818
+    - 7BCJ72D	 confidence: 79.637
+    - BCJ20	 confidence: 79.2232
+    - 7BGJ720	 confidence: 78.5618
+nichelle//20161127_153317.jpg
+plate0: 10 results
+    - VGK95	 confidence: 88.158
+    - 7VGK95	 confidence: 86.4723
+    - VGK9S	 confidence: 78.5821
+    - 7VGK9S	 confidence: 76.8965
+    - VGK9B	 confidence: 75.6157
+    - VGK9	 confidence: 74.5176
+    - 7VGK9B	 confidence: 73.9301
+    - V8K95	 confidence: 73.6507
+    - 7VGK9	 confidence: 72.832
+    - V6K95	 confidence: 72.3805
+plate1: 10 results
+    - BCJ20	 confidence: 88.1766
+    - 7BCJ20	 confidence: 87.9734
+    - BCJ720	 confidence: 87.2019
+    - 7BCJ720	 confidence: 86.9986
+    - BCJ2O	 confidence: 80.4722
+    - 7BCJ2O	 confidence: 80.269
+    - BCJ72O	 confidence: 79.4975
+    - BCJ2Q	 confidence: 79.4616
+    - 7BCJ72O	 confidence: 79.2943
+    - 7BCJ2Q	 confidence: 79.2584
+nichelle//20161127_153318.jpg
+plate0: 10 results
+    - 7BCJ720	 confidence: 90.085
+    - BCJ720	 confidence: 87.2552
+    - 7BCJ20	 confidence: 86.3145
+    - BCJ20	 confidence: 83.4847
+    - 7BCJ72O	 confidence: 82.0634
+    - 7BCJ72Q	 confidence: 81.4335
+    - 78CJ720	 confidence: 81.2524
+    - 7BCJ7Z0	 confidence: 81.1265
+    - 7BCJ72D	 confidence: 80.5145
+    - BCJ72O	 confidence: 79.2336
+nichelle//20161127_153327(1).jpg
+plate0: 10 results
+    - 8500	 confidence: 85.9402
+    - 8500P	 confidence: 84.4787
+    - 8500F	 confidence: 82.1651
+    - 85D0	 confidence: 74.1477
+    - 850O	 confidence: 73.921
+    - 85O0	 confidence: 73.7854
+    - 850Q	 confidence: 73.6479
+    - 85Q0	 confidence: 73.5851
+    - 85D0P	 confidence: 72.6863
+    - 850OP	 confidence: 72.4596
+plate1: 10 results
+    - 7BCJ720	 confidence: 92.2693
+    - 7BCJ20	 confidence: 89.9835
+    - 78CJ720	 confidence: 84.5079
+    - 7BCJ72O	 confidence: 84.3164
+    - 7BCJ72Q	 confidence: 84.1123
+    - 7BCJ7Z0	 confidence: 84.0027
+    - 7BCJ72D	 confidence: 83.427
+    - 78CJ20	 confidence: 82.2222
+    - 7BGJ720	 confidence: 82.09
+    - 7BCJ2O	 confidence: 82.0307
+nichelle//20161127_153327.jpg
+plate0: 10 results
+    - 8500	 confidence: 85.9402
+    - 8500P	 confidence: 84.4787
+    - 8500F	 confidence: 82.1651
+    - 85D0	 confidence: 74.1477
+    - 850O	 confidence: 73.921
+    - 85O0	 confidence: 73.7854
+    - 850Q	 confidence: 73.6479
+    - 85Q0	 confidence: 73.5851
+    - 85D0P	 confidence: 72.6863
+    - 850OP	 confidence: 72.4596
+plate1: 10 results
+    - 7BCJ720	 confidence: 92.2693
+    - 7BCJ20	 confidence: 89.9835
+    - 78CJ720	 confidence: 84.5079
+    - 7BCJ72O	 confidence: 84.3164
+    - 7BCJ72Q	 confidence: 84.1123
+    - 7BCJ7Z0	 confidence: 84.0027
+    - 7BCJ72D	 confidence: 83.427
+    - 78CJ20	 confidence: 82.2222
+    - 7BGJ720	 confidence: 82.09
+    - 7BCJ2O	 confidence: 82.0307
+nichelle//far_Nichelle.jpg
+plate0: 10 results
+    - BCJ720	 confidence: 91.4597
+    - 7BCJ720	 confidence: 88.5971
+    - 8CJ720	 confidence: 83.4726
+    - BCJ72O	 confidence: 83.3266
+    - BCJ72Q	 confidence: 82.8452
+    - BCJ7Z0	 confidence: 82.8086
+    - BCJ72D	 confidence: 82.2493
+    - 78CJ720	 confidence: 80.6099
+    - 7BCJ72O	 confidence: 80.464
+    - BGJ720	 confidence: 80.2627
+nichelle//front_Nichelle.jpg
+plate0: 10 results
+    - 7BCJ72Q	 confidence: 89.8502
+    - BCJ72Q	 confidence: 89.6993
+    - 7BCJ720	 confidence: 83.0411
+    - 7BCJ72O	 confidence: 82.9616
+    - BCJ720	 confidence: 82.8902
+    - BCJ72O	 confidence: 82.8107
+    - 7BCJ72D	 confidence: 82.3117
+    - BCJ72D	 confidence: 82.1608
+    - 7BCJ72B	 confidence: 80.6956
+    - BCJ72B	 confidence: 80.5447
+nichelle//full_Nichelle.jpg
+nichelle//left_Nichelle.jpg
+nichelle//right_Nichelle.jpg
